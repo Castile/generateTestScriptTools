@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="cn.hongliang.window.generateWindow">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="24555" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="North"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="773de" class="javax.swing.JButton" binding="importExcel">
+            <constraints/>
+            <properties>
+              <text value="导入"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="e1a6e" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="South"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="9a3eb" class="javax.swing.JButton" binding="btn_generate">
+            <constraints/>
+            <properties>
+              <text value="生成"/>
+            </properties>
+          </component>
+          <component id="7409f" class="javax.swing.JButton" binding="btn_clear">
+            <constraints/>
+            <properties>
+              <text value="清空"/>
+            </properties>
+          </component>
+          <component id="c3de1" class="javax.swing.JButton" binding="btn_close">
+            <constraints/>
+            <properties>
+              <text value="关闭"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <scrollpane id="96aeb">
+        <constraints border-constraint="Center"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="d7a8a" class="javax.swing.JTable" binding="tab_content">
+            <constraints/>
+            <properties/>
+          </component>
+        </children>
+      </scrollpane>
+    </children>
+  </grid>
+</form>
