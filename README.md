@@ -1,0 +1,2 @@
+# generateTestScriptTools
+an idea plugin
