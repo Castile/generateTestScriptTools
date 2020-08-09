@@ -11,6 +11,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 */
 public class ${fileName} {
 
+
 <#list testCases as testCase>
     /**
     *<em>${testCase.caseDescription}</em>
@@ -27,4 +28,3 @@ public class ${fileName} {
 </#list>
 
 }
-
