@@ -1907,6 +1907,49 @@
       <change afterPath="$PROJECT_DIR$/../travel/src/main/webapp/route_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MarkNoteBook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MarkNoteBook/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MarkNoteBook/src/cn/hongliang/fastNote/window/NoteListWindowFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MarkNoteBook/src/cn/hongliang/fastNote/window/NoteListWindowFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generateTest.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/META-INF/generateTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/actions/addTestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/data/DataCenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/data/DataConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/data/FileData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/data/TestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/dialog/addTestCaseDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/generator/AbstractFreeMarkerGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/generator/CasesData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/generator/DefaultCasesData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/generator/Generator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/generator/MyTestCasesGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/utils/AppendTestCases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/utils/CaseDataListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/utils/ExcelReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/utils/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/utils/InsertContent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/utils/POIUTils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/window/AddCaseWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/window/AddCaseWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/window/TestCaseListWindowFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/window/generateWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/window/generateWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/window/generateWindow$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/window/generateWindow$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/window/generateWindow$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/cn/hongliang/window/generateWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/template/t1.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generateTest/test.xlsx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -2091,7 +2134,7 @@
     <option name="jreName" value="#JAVA_HOME" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="591" />
     <option name="y" value="-13" />
     <option name="width" value="974" />
@@ -2239,7 +2282,7 @@
       <workItem from="1596798590819" duration="4548000" />
       <workItem from="1596814235236" duration="605000" />
       <workItem from="1596814882265" duration="3407000" />
-      <workItem from="1596952903641" duration="8055000" />
+      <workItem from="1596952903641" duration="8628000" />
     </task>
     <servers />
   </component>
@@ -2252,10 +2295,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62304000" />
+    <option name="totallyTimeSpent" value="62877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
